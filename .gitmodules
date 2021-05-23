@@ -1,0 +1,3 @@
+[submodule "thirdparty/duckx"]
+	path = thirdparty/duckx
+	url = git@github.com:qwerity/DuckX.git

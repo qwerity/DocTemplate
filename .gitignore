@@ -1,0 +1,6 @@
+/cmake-build-*
+/install
+
+/testdata
+
+CMakeLists.txt.user
